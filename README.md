@@ -1,5 +1,5 @@
 <p  align="center">
-<a href="https://balintmazzag.netlify.app/" target = "_blank"><img height="380" src = "https://github.com/mbalint9901/mbalint9901/blob/main/Home.png"></a>
+<a href="https://blog.balintmazzag.com/" target = "_blank"><img height="380" src = "https://github.com/mbalint9901/mbalint9901/blob/main/Home.png"></a>
 </p>
 
 ---
