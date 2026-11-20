@@ -14,4 +14,4 @@ Recent work
 
 Tools: R (tidyverse, Quarto, Shiny, package development), SQL, Python, Git, Docker
 
-[LinkedIn](https://www.linkedin.com/in/mazzag-bálint-066b2b69/) · [Google Scholar](https://scholar.google.com/citations?user=WxA0kUAAAAAJ)
+[Website](https://balintmazzag.com) · [LinkedIn](https://www.linkedin.com/in/balintmazzag) · [Google Scholar](https://scholar.google.com/citations?user=WxA0kUAAAAAJ)
