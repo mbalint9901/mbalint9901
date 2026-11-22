@@ -12,6 +12,4 @@ Recent work
 - Treatment gaps in paediatric ADHD pharmacotherapy, 10-year nationwide
   cohort (preprint): https://doi.org/10.21203/rs.3.rs-10411233/v1
 
-Tools: R (tidyverse, Quarto, Shiny, package development), SQL, Python, Git, Docker
-
 [Website](https://balintmazzag.com) · [LinkedIn](https://www.linkedin.com/in/balintmazzag) · [Google Scholar](https://scholar.google.com/citations?user=WxA0kUAAAAAJ)
